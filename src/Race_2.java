@@ -4,6 +4,8 @@ import java.util.List;
 public class Race_2 {
 
 	public static void main(String[] args) {
+		
+		System.out.println("Sample jenkin program to test");
 		List<Integer> list = new ArrayList<Integer>();
 		list.clear();
 		list.add(Integer.MIN_VALUE);
